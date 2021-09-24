@@ -1,0 +1,21 @@
+/*background*/
+body {
+     background-image: url('https://th.bing.com/th/id/R.cedfd3be3bdf6a689f86aeefd029aeca?rik=K%2fmSl3LfPvBOTQ&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f05%2fPhotos-Download-Black-Backgrounds.jpg&ehk=C5%2bYdeF3du%2fyt0qNmPfCfZrIgms25FulFt35YK0gOQ4%3d&risl=&pid=ImgRaw&r=0');
+   }
+p{
+    font-family:calibri; 
+    color:white;
+}
+#18px{
+    font: size 18px;
+}
+
+.container {
+    border: 1px solid #000;
+    width: 85%;
+    background-color:black;
+}
+.margin {
+    margin: 10px 10px 10px 10px;
+    border: 0;
+}
